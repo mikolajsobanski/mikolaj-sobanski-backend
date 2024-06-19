@@ -76,7 +76,7 @@ TEMPLATES = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://mikolaj-sobanski.onrender.com",
+    "https://mikolajsobanski.github.io/mikolaj-sobanski",
 ]
 
 WSGI_APPLICATION = 'api.wsgi.application'
